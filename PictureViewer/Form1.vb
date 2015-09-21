@@ -8,6 +8,7 @@
             PictureBox1.SizeMode = PictureBoxSizeMode.StretchImage
         Else
             PictureBox1.SizeMode = PictureBoxSizeMode.Normal
+            ' This is a comment!
         End If
     End Sub
 
